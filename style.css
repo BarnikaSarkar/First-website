@@ -1,3 +1,10 @@
 body{
-    background-color:darkcyan;
+    background-color:blanchedalmond;
+}
+p{
+    color:darkred;
+    background-color: darkgrey;
+}
+h1{
+    color:darksalmon;
 }
